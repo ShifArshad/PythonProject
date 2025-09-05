@@ -1,2 +1,2 @@
-# PythonProject
+#Pomodoro
 Pomodoro-countdown project
